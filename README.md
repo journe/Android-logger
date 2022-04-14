@@ -3,7 +3,12 @@
 
 <img align="right" src='https://github.com/orhanobut/logger/blob/master/art/logger-logo.png' width='128' height='128'/>
 
+# 个人用修改版
+
+提升了minSDK，升级了`annotation`版本
+
 ### Logger
+
 Simple, pretty and powerful logger for android
 
 ### Setup
